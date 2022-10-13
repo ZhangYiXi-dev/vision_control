@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\hsq\Desktop\test\ConsoleApplication1\ConsoleApplication1.cpp(133,23): warning C4018: “<”: 有符号/无符号不匹配
+  ConsoleApplication1.vcxproj -> C:\Users\hsq\Desktop\test\ConsoleApplication1\Debug\ConsoleApplication1.exe

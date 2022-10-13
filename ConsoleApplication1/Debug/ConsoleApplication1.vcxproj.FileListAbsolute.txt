@@ -1,0 +1,2 @@
+C:\Users\hsq\Desktop\test\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\hsq\Desktop\test\ConsoleApplication1\Debug\ConsoleApplication1.pdb
