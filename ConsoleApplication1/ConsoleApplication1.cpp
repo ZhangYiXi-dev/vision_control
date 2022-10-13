@@ -245,7 +245,8 @@ int main(){
     auto f = [a, &b]()mutable->int {cout << a << " " << b << endl; return a + b; };
     a++;
     b++;
-    f(); //2 4
+    //f(); //2 4
+    a++;
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
